@@ -1,0 +1,8 @@
+Prefix = $ 
+Moderation Features:
+-Bad Words
+-Ban
+-Kick
+-Mute
+-MSG
+
